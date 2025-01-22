@@ -36,10 +36,6 @@ Before starting, ensure you have:
 
 1. Switch your wallet to the **Neo Testnet**:
    - In the wallet settings, select **Network** and choose **Testnet**.
-2. Note your wallet address. It looks like:
-   ```
-   AYourNeoWalletAddressExample...
-   ```
 
 ---
 
@@ -69,18 +65,5 @@ Before starting, ensure you have:
 
 ---
 
-## Additional Resources
-
-- [Neo Wallet Guide](https://docs.neo.org/docs/en-us/wallets.html)
-- [Neo Community Support](https://discord.com/invite/neo)
-
----
-
-## Contribution
-
-Found an issue or have suggestions? Submit them via GitHub. Let's make this tutorial even better together!
-
----
-
 **Congratulations!**  
-Youâ€™ve successfully created a wallet, obtained test tokens, and sent your first transaction on Neo X. This is your first step into the Neo ecosystem!
+You have successfully created a wallet, obtained test tokens, and sent your first transaction on Neo X. This is your first step into the Neo ecosystem!
